@@ -6,10 +6,10 @@ rss: /atom.xml
 favicon: /favicon.png
 
 # main
-date_format: 'MMMM D, YYYY'
-excerpt_link: Read More
+date_format: 'YYYY-MM-DD'
+excerpt_link: 阅读更多
 comment_link: 0 COMMENTS
 
 # foot
 themes_mata: '&nbsp;❤&nbsp;Theme by <a href="http://unmric.com">unmric</a>'
-google_analytics:
+google_analytics: UA-49039190-1
